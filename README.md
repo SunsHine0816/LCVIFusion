@@ -1,2 +1,3 @@
-# BCVIFusion
-BCVIFusion: Brightness-Based Color Restoration for Low-Light Visible-Infrared Image Fusion
+# LCVIFusion
+LCVIFusion: Stable Visual Quality for Low-Light Visible and Infrared Image Fusion via Luminance-Color Linked Calibration
+Coming soon...
